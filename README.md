@@ -1,2 +1,2 @@
 # fract-ol
-mandelbrot, jula and newton fractal are avirable.
+Mandelbrot, Jula and Newton fractal are available.

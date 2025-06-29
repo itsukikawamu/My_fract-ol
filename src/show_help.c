@@ -6,7 +6,7 @@
 /*   By: ikawamuk <ikawamuk@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/28 02:59:30 by ikawamuk          #+#    #+#             */
-/*   Updated: 2025/06/28 22:17:48 by ikawamuk         ###   ########.fr       */
+/*   Updated: 2025/06/29 17:44:09 by ikawamuk         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ void	show_how_to_use(void)
 	ft_printf("Arrow keys\tMove view\n");
 	ft_printf("i\t\tZoom in\n");
 	ft_printf("o\t\tZoom out\n");
-	ft_printf("u\t\tSUper zoom in\n");
+	ft_printf("u\t\tSuper zoom in\n");
 	ft_printf("p\t\tSuper zoom out\n");
 	ft_printf("c\t\tChange color theme\n");
 	ft_printf("Mouse wheel\tZoom at mouse position\n");
